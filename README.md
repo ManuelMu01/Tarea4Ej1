@@ -1,6 +1,6 @@
 # Tarea 4 ej 1
 
-## EJ 1 modificar 
+## EJ 1 Modificamos 
 ### Paso 1 
 Descargo el proyecto anterior que deseo modificar en mi ordenador
 ### Paso 2 
